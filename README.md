@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lidiya Mitiku</h1>
-<h3 align="center">I'm currently pursuing a Bachelor's degree in Software Engineering at Bahir Dar University in Ethiopia. I am a skilled web designer and front-end developer, specializing in creating visually appealing and highly functional websites. My expertise includes HTML, CSS, JavaScript, and responsive design principles, ensuring seamless user experiences across devices.</h3>
+<h2 align="center">I'm a Software Engineering student at Bahir Dar University, Ethiopia.
 
+</h2>
+<h3 align="left">👀 I'm interested in Web Development, Software Development, and creative tech solutions </h3>
+<h3 align="left">🌱 Currently learning and improving my coding skills </h3>
+<h3 align="left">💡 I enjoy building things, solving problems, and exploring new ideas</h3>
+<h3 align="left">.
+🤝 Always happy to learn and collaborate with others</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lidiya-mitiku&label=Profile%20views&color=0e75b6&style=flat" alt="lidiya-mitiku" /> </p>
 
 - 📫 How to reach me **lidiyamitiku636@gmail.com**

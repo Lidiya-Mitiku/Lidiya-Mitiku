@@ -5,7 +5,7 @@
 <h5 align="left">👀 I'm interested in Web Development, Software Development, and creative tech solutions </h5>
 <h5 align="left">🌱 Currently learning and improving my coding skills </h5>
 <h5 align="left">💡 I enjoy building things, solving problems, and exploring new ideas</h5>
-<h5 align="left">.
+<h5 align="left">
 🤝 Always happy to learn and collaborate with others</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lidiya-mitiku&label=Profile%20views&color=0e75b6&style=flat" alt="lidiya-mitiku" /> </p>
  📫 How to reach me **lidiyamitiku636@gmail.com**

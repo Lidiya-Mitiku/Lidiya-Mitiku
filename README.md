@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lidiya Mitiku</h1>
+<h1 align="center">Hi 👋 I'm Lidiya Mitiku</h1>
 <h3 align="center">I'm a Software Engineering student at Bahir Dar University, Ethiopia.
 
 </h3>

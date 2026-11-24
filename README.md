@@ -8,7 +8,7 @@
 <h5 align="left">
 🤝 Always happy to learn and collaborate with others</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lidiya-mitiku&label=Profile%20views&color=0e75b6&style=flat" alt="lidiya-mitiku" /> </p>
- 📫 How to reach me **lidiyamitiku636@gmail.com**
+ 📫 How to reach me lidiyamitiku636@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
